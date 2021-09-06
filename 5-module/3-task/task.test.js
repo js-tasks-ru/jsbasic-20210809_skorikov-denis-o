@@ -18,7 +18,6 @@ describe('5-module-3-task', () => {
           <div class="carousel__arrow carousel__arrow_left">
               <img src="/assets/images/icons/angle-left-icon.svg" alt="icon">
           </div>
-
           <div class="carousel__inner">
               <div class="carousel__slide" data-id="penang-shrimp">
                   <img src="/assets/images/carousel/penang_shrimp.png" class="carousel__img" alt="slide">
@@ -30,7 +29,6 @@ describe('5-module-3-task', () => {
                       </button>
                   </div>
               </div>
-
               <div class="carousel__slide" data-id="chicken-cashew">
                   <img src="/assets/images/carousel/chicken_cashew.png" class="carousel__img" alt="slide">
                   <div class="carousel__caption">
@@ -41,7 +39,6 @@ describe('5-module-3-task', () => {
                       </button>
                   </div>
               </div>
-
               <div class="carousel__slide" data-id="red-curry-veggies">
                   <img src="/assets/images/carousel/red_curry_vega.png" class="carousel__img" alt="slide">
                   <div class="carousel__caption">
@@ -52,7 +49,6 @@ describe('5-module-3-task', () => {
                       </button>
                   </div>
               </div>
-
               <div class="carousel__slide" data-id="chicken-springrolls">
                   <img src="/assets/images/carousel/chicken_loempias.png" class="carousel__img" alt="slide">
                   <div class="carousel__caption">
